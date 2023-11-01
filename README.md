@@ -1,22 +1,39 @@
 # ADS phase wise project submission
 # Covid-19vaccines Analysis using Data Science
+
 Ibm project.docx
+
 Data Source: (https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress).
+
 ADS_Phase2.pdf
+
 Reference:Kaggle.com 
+
 ADS_Phase3.pdf
+
 # how to run the code and any dependency: Covid-19vaccines Analysis
+
 ADS_Phase-4-1.pdf
+
 ADS-Phase5.pdf
- #How to Run:
+
+# How to Run:
+
 README.md
-#pip install jupyter lab
-#pip install jupyter notebook (or)
-Insat11 jupyter notebook in your commend prompt
+
+# pip install jupyter lab
+
+# pip install jupyter notebook (or)
+# Insat11 jupyter notebook in your commend prompt
+
 1.Download Anaconda community software for desktop
+
 2. Install the anaconda community
+
 3.open jupyter notebook
+
 4.type the code & execute the given code
+
 # This project is designed to covid-19 vaccines Analysis  based on various features using Data Science.
 
 # COVID-19 Vaccines Analysis
@@ -64,13 +81,14 @@ To run this project, you'll need the following dependencies:
 ## Usage
 
 1. Navigate to the project directory.
-2. Run the main analysis script:
+   
+2.Run the main analysis script:
    ```bash
    python analyze_vaccines.py
    ```
    This script will perform data analysis and generate reports or visualizations based on the provided datasets.
 
-3. For visualizations in Jupyter Notebook (if applicable):
+3.For visualizations in Jupyter Notebook (if applicable):
    ```bash
    jupyter notebook vaccine_visualizations.ipynb
    ```
